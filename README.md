@@ -1,2 +1,3 @@
-# x
-go common lib
+# README
+
+x is a go common lib
